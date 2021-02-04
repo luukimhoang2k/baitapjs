@@ -1,0 +1,25 @@
+.container{
+  display:flex;
+  width: 50%;
+  height: 500px;
+  margin: auto;
+  border: 1px solid orange;
+  flex-flow: row wrap;
+  /* align-content:flex-start; */
+  /* justify-content: center; */
+}
+.container .container-con{
+  margin:20px;
+  width: 20%;
+  height: 100px;
+  border: 1px solid blue;
+  text-align: center;
+}
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+  border: 2px solid gray;
+}
