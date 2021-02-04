@@ -1,3 +1,4 @@
+/* eslint-disable */
 import logo from './logo.svg';
 import anh1 from './anh1.jpg';
 import anh2 from './anh2.jpg';
