@@ -39,7 +39,7 @@ function App() {
             <div className="container_body">
                 <div className="list_body">
                   <img className="image_body" src={anh1}></img>
-                  <h3>PHAN NGÔ NHẬT VŨ1</h3>
+                  <h3>PHAN NGÔ NHẬT VŨ</h3>
                   <p>1+ EXP Dev NodeJS tại ACworks Co.,Ltd.</p>
                 </div>
                 <div className="list_body">
